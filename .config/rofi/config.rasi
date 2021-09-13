@@ -1,0 +1,9 @@
+
+
+configuration {
+ modi: "window,drun,ssh,combi";
+ theme: "~/.cache/wal/colors-rofi-light.rasi";
+ font: "Iosevka Nerd Font 10";
+ combi-modi: "window,drun,ssh";
+ }
+

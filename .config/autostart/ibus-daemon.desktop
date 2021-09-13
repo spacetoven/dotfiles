@@ -1,0 +1,4 @@
+[Desktop entry]
+Type=Apllication
+Name=IBus Daemon
+Exec=ibus-daemon -d
